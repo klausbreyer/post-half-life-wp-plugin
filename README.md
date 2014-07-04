@@ -1,6 +1,6 @@
 # Post-Half-Life (p½)
 
-Copyright (C) 2009 Thomas Kappler
+Copyright (C) 2014 Klaus Breyer
 
 * Author: Klaus Breyer <kb@klaus-breyer.de>
 * Keywords: statistics, posts, multilingual, thumbnails, social, traffic, peak
