@@ -1,4 +1,4 @@
-=== Post-Half-Life (p½) ===
+=== Post-Half-Life ===
 Contributors: klausbreyer
 Author: Adknowledge
 Author URI: http://klaus-breyer.de

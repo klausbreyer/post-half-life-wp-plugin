@@ -1,4 +1,4 @@
-# Post-Half-Life (p½)
+# Post-Half-Life
 
 Copyright (C) 2014 Klaus Breyer
 
