@@ -7,7 +7,7 @@ function phl_counter() {
 		echo "\n";
 		echo the_ID();
 	    global $wpdb, $phl_table_name;
-		$wpdb->insert( $phl_table_name, array("fetch_date" => current_time("mysql"), "post_id" => get_the_ID(), "referer" => $_SERVER['HTTP_REFERER']));
+		$wpdb->insert( $phl_table_name, array("fetch_date" => $wpdb->prepare(current_time("mysql")), "post_id" => $wpdb->prepare(get_the_ID()), "referer" => $wpdb->prepare($_SERVER['HTTP_REFERER'])));
 	}
 
 	echo "\nplugin counter -->";

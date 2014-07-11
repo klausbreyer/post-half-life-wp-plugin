@@ -25,6 +25,14 @@ A Plugin for calculating the half life of a blog post. So you can determine afte
 
 == Changelog ==
 
+= 0.1.2 =
+Bugfix for Plugin Submission
+* Added $wpdb-> prepare everywhere. 
+
+= 0.1.1 =
+Bugfix for Plugin Submission
+* Removed reference to icon, because there is no icon right now.
+
 = 0.1 =
 This is first public beta release of the plugin. 
 * Record every page view including the referrer for future evaluation
