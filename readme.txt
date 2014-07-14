@@ -1,4 +1,4 @@
-=== Post-Half-Life ===
+=== Post-Half-Life-Statistics ===
 Contributors: klausbreyer
 Author: Adknowledge
 Author URI: http://klaus-breyer.de
